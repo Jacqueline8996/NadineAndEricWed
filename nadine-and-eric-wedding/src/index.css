@@ -2,10 +2,12 @@ body {
   background-color: rgb(24, 52, 96);
   color:rgb(247, 218, 218);
   font-size: 15px;
+  font-family: 'Dancing Script', cursive;
+  background-image: url("./assets/Images/flowerBackground.jpg");
+  background-size: 100%;
 }
 /* section {
   background-color: rgb(24, 52, 96);
   width: 100%;
   height: 100%;
 } */
-

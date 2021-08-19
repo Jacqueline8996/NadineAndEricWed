@@ -1,16 +1,15 @@
 import React from "react";
 // import { Link } from "react-router-dom";
-import "./RSVPInfo.css";
-import NadinePic from "../../assets/Images/Cover-Page.png"
+import "./DetailsInfo.css";
 
-function RSVPInfo() {
+function DetailsInfo() {
   return (
     <div>
       <div className="container divCenter" >
         <div>
           <p className="headding">Welcome Thank you For Being part of our Special Day</p>
           <div className="col-12" >
-            <img src={NadinePic} alt = "nadine and eric" className = "coverImage"></img>
+          llllll
           </div>
           <section>
               <div className="row align-self-center">
@@ -33,4 +32,4 @@ function RSVPInfo() {
   );
 }
 
-export default RSVPInfo;
+export default DetailsInfo;

@@ -1,9 +1,13 @@
 nav{
     background-color:rgb(234, 184, 181);
     color: rgb(31, 44, 79); 
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
 } 
 .navbar-brand{
     color: rgb(24, 52, 96); 
     padding-left: 5%;
     padding-right: 5%;
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
 }

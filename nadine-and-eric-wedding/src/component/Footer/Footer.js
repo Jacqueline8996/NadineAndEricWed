@@ -7,7 +7,7 @@ function Footer() {
     <footer>
         <div className="container">
             <div className="row">
-                <div className="col-lg-6">
+                <div className="col-lg-12 justify-content-center">
                 Made by Jacqueline Rivera
                 </div>
             </div>

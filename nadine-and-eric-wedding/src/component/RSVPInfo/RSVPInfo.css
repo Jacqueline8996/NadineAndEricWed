@@ -35,4 +35,5 @@ body{
 .clickRsvp:hover{
     color: rgb(246, 206, 206);
     text-shadow: 3px 3px rgb(93, 129, 188);
+    text-decoration: none;
 }

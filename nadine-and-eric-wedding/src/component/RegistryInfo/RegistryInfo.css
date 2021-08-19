@@ -14,10 +14,6 @@ body{
     text-align: center;
     font-size: 60px;
 }
-.coverImage{
-    width: 100%;
-    padding: 2%;
-}
 .BodyOfText{
     font-size: 50px;
     text-align: center;
@@ -26,13 +22,17 @@ body{
     font-size: 40px;
     text-align: center;
 }
-.clickRsvp{
+.click{
     color: rgb(247, 218, 218);
     font-size: 50px;
     text-align: center;
     text-decoration: none;
 }
-.clickRsvp:hover{
+.click:hover{
     color: rgb(246, 206, 206);
     text-shadow: 3px 3px rgb(93, 129, 188);
+    text-decoration: none;
+}
+.venmoCode{
+    width: 100%;
 }

@@ -5,26 +5,20 @@ import "./DetailsInfo.css";
 function DetailsInfo() {
   return (
     <div>
+      <div className="container divCenter">
+        <p className="headding"> Details </p>
+      </div>
       <div className="container divCenter" >
         <div>
-          <p className="headding">Welcome Thank you For Being part of our Special Day</p>
-          <div className="col-12" >
-          llllll
-          </div>
           <section>
-              <div className="row align-self-center">
-                  <div className="col-md-12 ">
-                      <p className="sectiontitle">RSVP Info</p>
-                  </div>
-                  <div className="col-md-12 BodyOfText">
-                      <p>
-                        Please click on the following Link To RSVP via google:
-                      </p>
-                      <a className="clickRsvp" href="https://forms.gle/zfWr17GTrhabgiEM7">
-                        CLICK HERE TO RSVP
-                      </a>
-                  </div>
+            <div className="row align-self-center">
+              <div className="col-md-12 BodyOfText">
+              <p>Hunt Valley Country Club</p>
+              <p>Phone  Number : Hunt Valley Country Club</p>
+              <a className="click" href="https://maps.app.goo.gl/CZpCjLrUywRFDVmw8">Address: 14101 Phoenix Rd, Phoenix, MD 21131</a>
+        
               </div>
+            </div>
           </section>
         </div>
       </div>

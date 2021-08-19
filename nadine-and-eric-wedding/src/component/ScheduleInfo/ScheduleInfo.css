@@ -2,37 +2,30 @@ body{
     color: rgb(247, 218, 218);
     text-align: center;
 }
-.divCenter{
+/* .divCenter{
     background-color: rgb(24, 52, 96);
     font-family: 'Dancing Script', cursive;
     width: 100%;
     padding: 0%;
     margin: 0%;
-}
+} */
 .headding{
     padding-top: 2%;
     text-align: center;
     font-size: 60px;
 }
-.coverImage{
+.listItem{
+    background-color: rgb(24, 52, 96);
+    font-family: 'Dancing Script', cursive;
     width: 100%;
-    padding: 2%;
-}
-.BodyOfText{
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
 }
 .sectiontitle{
     font-size: 40px;
     text-align: center;
 }
-.clickRsvp{
-    color: rgb(247, 218, 218);
-    font-size: 50px;
-    text-align: center;
-    text-decoration: none;
-}
-.clickRsvp:hover{
-    color: rgb(246, 206, 206);
-    text-shadow: 3px 3px rgb(93, 129, 188);
+.inbetweenSpace{
+    background-color: rgb(234,184,181);
+    padding: 5%;
 }

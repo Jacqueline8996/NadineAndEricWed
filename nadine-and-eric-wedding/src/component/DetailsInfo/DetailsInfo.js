@@ -16,7 +16,7 @@ function DetailsInfo() {
               <p>Hunt Valley Country Club</p>
               <p>Phone  Number : Hunt Valley Country Club</p>
               <a className="click" href="https://maps.app.goo.gl/CZpCjLrUywRFDVmw8">Address: 14101 Phoenix Rd, Phoenix, MD 21131</a>
-        
+    
               </div>
             </div>
           </section>

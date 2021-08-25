@@ -8,21 +8,22 @@ function RSVPInfo() {
     <div>
       <div className="container divCenter" >
         <div>
-          <p className="headding">Welcome Thank you For Being part of our Special Day</p>
+          <p className="headdingR">Welcome!</p>
+          <p className="headdingR">Thank you for being part of our special day</p>
           <div className="col-12" >
             <img src={NadinePic} alt = "nadine and eric" className = "coverImage"></img>
           </div>
           <section>
               <div className="row align-self-center">
                   <div className="col-md-12 ">
-                      <p className="sectiontitle">RSVP Info</p>
+                      <p className="headding">RSVP Info</p>
                   </div>
-                  <div className="col-md-12 BodyOfText">
+                  <div className="col-md-12 BodyOfTextR">
                       <p>
-                        Please click on the following Link To RSVP via google:
+                        Please click on the following link to RSVP via google:
                       </p>
                       <a className="clickRsvp" href="https://forms.gle/zfWr17GTrhabgiEM7">
-                        CLICK HERE TO RSVP
+                        Click me to RSVP ♥
                       </a>
                   </div>
               </div>

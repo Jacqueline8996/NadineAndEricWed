@@ -16,7 +16,7 @@ function RSVPInfo() {
           <section>
               <div className="row align-self-center">
                   <div className="col-md-12 ">
-                      <p className="headding">RSVP Info</p>
+                      <p id="rvIn">RSVP Info</p>
                   </div>
                   <div className="col-md-12 BodyOfTextR">
                       <p>

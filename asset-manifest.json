@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NadineAndEricWed/static/css/main.57e3df75.chunk.css",
+    "main.js": "/NadineAndEricWed/static/js/main.c8e31409.chunk.js",
+    "main.js.map": "/NadineAndEricWed/static/js/main.c8e31409.chunk.js.map",
+    "runtime-main.js": "/NadineAndEricWed/static/js/runtime-main.e1b69ff3.js",
+    "runtime-main.js.map": "/NadineAndEricWed/static/js/runtime-main.e1b69ff3.js.map",
+    "static/css/2.818011ed.chunk.css": "/NadineAndEricWed/static/css/2.818011ed.chunk.css",
+    "static/js/2.2b5953ff.chunk.js": "/NadineAndEricWed/static/js/2.2b5953ff.chunk.js",
+    "static/js/2.2b5953ff.chunk.js.map": "/NadineAndEricWed/static/js/2.2b5953ff.chunk.js.map",
+    "index.html": "/NadineAndEricWed/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/NadineAndEricWed/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.57e3df75.chunk.css.map": "/NadineAndEricWed/static/css/main.57e3df75.chunk.css.map",
+    "static/js/2.2b5953ff.chunk.js.LICENSE.txt": "/NadineAndEricWed/static/js/2.2b5953ff.chunk.js.LICENSE.txt",
+    "static/media/Cover-Page.5993e832.png": "/NadineAndEricWed/static/media/Cover-Page.5993e832.png",
+    "static/media/index.css": "/NadineAndEricWed/static/media/FlowerBack.ebbf841f.jpg",
+    "static/media/nadineVenmo.d86d9b13.png": "/NadineAndEricWed/static/media/nadineVenmo.d86d9b13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1b69ff3.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.2b5953ff.chunk.js",
+    "static/css/main.57e3df75.chunk.css",
+    "static/js/main.c8e31409.chunk.js"
+  ]
+}

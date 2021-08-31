@@ -12,7 +12,7 @@ function App() {
     <div>
       <Wrapper>
         <Switch>
-          <Route exact path={["/", "/RSVP"]} component={RSVP} />
+          <Route exact path={["/", "/Home"]} component={RSVP} />
           <Route exact path={["/Registry"]} component={Registry} />
           <Route exact path={["/Details"]} component={Details} />
           <Route exact path={["/Schedule"]} component={Schedule} />

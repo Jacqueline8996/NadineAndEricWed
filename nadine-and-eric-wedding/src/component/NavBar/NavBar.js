@@ -12,7 +12,7 @@ function NavBar() {
         <div className="collapse navbar-collapse active" id="navbar1">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item ">
-                <Link to = "/RSVP" className="nav-link atag">RSVP</Link>
+                <Link to = "/Home" className="nav-link atag">Home</Link>
             </li>
             <li className="nav-item ">
                 <Link to = "/Schedule" className="nav-link atag">Schedule</Link>

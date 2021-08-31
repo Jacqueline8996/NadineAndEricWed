@@ -19,7 +19,7 @@ function DetailsInfo() {
                 </div>
               <div className="col-md-12 BodyOfTextM">
               <p>Hunt Valley Country Club</p>
-              <p>Denise Peake - (443) 618-1543</p>
+              <a href="tel:+1-443-618-1543"><p className="dpeak">Denise Peake - (443) 618-1543</p></a>
               <a className="click" id="address" href="https://maps.app.goo.gl/CZpCjLrUywRFDVmw8">Address: 14101 Phoenix Rd, Phoenix, MD 21131</a>
               </div>
               </div>

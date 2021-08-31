@@ -31,6 +31,17 @@ body{
 #address{
     font-size: 60px; 
 }
+.dpeak,a{ 
+    color: rgb(246, 206, 206);
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(246, 206, 206);
+    text-shadow: 3px 3px rgb(93, 129, 188);
+}
 @media only screen and (max-width: 500px) {
 
     #imgMap{

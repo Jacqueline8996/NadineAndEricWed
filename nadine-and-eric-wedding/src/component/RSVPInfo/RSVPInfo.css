@@ -51,9 +51,12 @@ body{
 
 @media only screen and (max-width: 500px) {
     .divCenter{
-        width: 60%;
+        /* width: 70%; */
+        width: 13rem;
         margin: 10%;
         border: 5%;
+        padding: 2%;
+        position: relative;
     }
 
     .headdingR{

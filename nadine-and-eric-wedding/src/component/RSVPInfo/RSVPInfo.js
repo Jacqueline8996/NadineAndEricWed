@@ -10,8 +10,8 @@ function RSVPInfo() {
         <div className="row align-self-center">
           <div className="col-md-12" >
             <div className="col-md-12" >
-              <p className="headdingR">Welcome!</p>
-              <p className="headdingR">Thank you for being part of our special day</p>
+              <p className="headdingR" id="welTitle">Welcome!</p>
+              <p className="headdingR" id="thanTitle">Thank you for being part of our special day</p>
               <img src={NadinePic} alt = "nadine and eric" className = "coverImage"></img>
           </div>
             <div className="row align-self-center">

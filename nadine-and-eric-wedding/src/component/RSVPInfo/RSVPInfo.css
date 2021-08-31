@@ -20,6 +20,12 @@ body{
     width: 100%;
     padding: 2%;
 }
+#welTitle{
+    margin-bottom: 0%;
+}
+#thanTitle{
+    padding-top: 0%;
+}
 .BodyOfTextR{
     text-align: center;
     font-size: 40px;

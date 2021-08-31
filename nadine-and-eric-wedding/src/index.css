@@ -177,36 +177,11 @@ body {
 
 @media only screen and (max-width: 500px) {
   .divCenter{
-      /* width: 70%; */
-      width: 13rem;
-      margin: 0%;
+      width:auto;
+      margin:2%;
       border: 5%;
       padding: 2%;
       position: relative;
   }
 
-  .headdingR{
-      text-align: center;
-      font-size: 25px;
-      font-family: 'Dancing Script', cursive;
-  }
-  .coverImage{
-      width: 100%;
-      padding: 2%;
-  }
-  .BodyOfTextR{
-      font-size: 15px;
-  }
-  .BodyOfTextR a{
-      font-size: 15px;
-  }
-  .sectiontitleR{
-      font-size: 15px;
-  }
-  #rvIn{
-      font-size: 25px;
-      padding-top: 2%;
-      text-align: center;
-      font-family: 'Dancing Script', cursive;
-  }
 }

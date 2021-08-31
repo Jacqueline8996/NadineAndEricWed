@@ -11,8 +11,14 @@ nav{
     font-family: 'Dancing Script', cursive;
     text-align: left;
 }
+#titleName{
+    font-size: 40px;
+}
 .navbar{
     width: 100%;
+}
+#navbar1{
+    font-size: 30px;
 }
 
 

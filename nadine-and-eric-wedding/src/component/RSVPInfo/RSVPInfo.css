@@ -4,17 +4,17 @@ body{
 }
 .divCenter{
     background-color: rgb(24, 52, 96);
-    /* font-family: 'Dancing Script', cursive; */
-    width: 100%;
+    font-family: 'Dancing Script', cursive;
+    width: auto;
     padding: 0%;
     border-radius: 30px;
-    margin-top: 15%;
+    margin-top: 3%;
 }
 .headdingR{
     padding-top: 2%;
     text-align: center;
     font-size: 70px;
-    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Dancing Script', cursive; */
 }
 .coverImage{
     width: 100%;

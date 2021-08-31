@@ -10,10 +10,5 @@ footer {
     text-align: center;
     z-index: 4;
     font-family: 'Dancing Script', cursive;
-}
-.download{
-    color: black;
-}
-.download:hover{
-    color: white;
+    color:rgb(31, 44, 79) ;
 }

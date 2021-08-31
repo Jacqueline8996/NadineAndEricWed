@@ -46,9 +46,9 @@ function RegistryInfo() {
           <section>
             <div className="row align-self-center">
               <div className="col-md-5 ">
-                <a className="click" href="@Nadine-Peake">
+                <p className="venmo">
                 Venmo: @Nadine-Peake
-                </a>
+                </p>
                 <img src = {Venmo} alt = "venmoCode" className ="venmoCode imgR"></img>
               </div>
               <div className="col-md-2 inbetweenSpace" >

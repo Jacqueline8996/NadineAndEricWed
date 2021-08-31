@@ -51,3 +51,11 @@ body{
     padding-top: 0%;
     font-size: 35px;
 }
+.venmoCode{
+    color: rgb(246, 206, 206);
+    width: 100%;
+}
+.venmo{
+    color: rgb(246, 206, 206);
+    font-size: 50px;
+}

@@ -1,6 +1,7 @@
 import React from "react";
 // import { Link } from "react-router-dom";
 import "./DetailsInfo.css";
+import GoogleMap from "../../assets/Images/googleMap.png"
 
 function DetailsInfo() {
   return (
@@ -12,11 +13,15 @@ function DetailsInfo() {
         <div>
           <section>
             <div className="row align-self-center">
-              <div className="col-md-12 BodyOfText">
+              <div className="row align-self-center">
+                <div className="col-md-8 map">
+                  <a className="click" href="https://maps.app.goo.gl/CZpCjLrUywRFDVmw8"> <img id="imgMap"src={GoogleMap}/></a>
+                </div>
+              <div className="col-md-12 BodyOfTextM">
               <p>Hunt Valley Country Club</p>
-              <p>Phone  Number : Hunt Valley Country Club</p>
-              <a className="click" href="https://maps.app.goo.gl/CZpCjLrUywRFDVmw8">Address: 14101 Phoenix Rd, Phoenix, MD 21131</a>
-    
+              <p>Denise Peake - (443) 618-1543</p>
+              <a className="click" id="address" href="https://maps.app.goo.gl/CZpCjLrUywRFDVmw8">Address: 14101 Phoenix Rd, Phoenix, MD 21131</a>
+              </div>
               </div>
             </div>
           </section>

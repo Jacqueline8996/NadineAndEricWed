@@ -1,7 +1,6 @@
 import React from "react";
 // import { Link } from "react-router-dom";
 import "./ScheduleInfo.css";
-// import NadinePic from "../../assets/Images/Cover-Page.png"
 
 const scheduleList = [
   {time:'3:00-3:15pm',event:"Guests Arrival"},

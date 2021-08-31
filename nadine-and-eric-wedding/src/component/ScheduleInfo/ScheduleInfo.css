@@ -9,7 +9,7 @@ body{
     padding: 0%;
     margin: 0%;
 } */
-.headding{
+.headdingD{
     padding-top: 2%;
     text-align: center;
     font-size: 60px;
@@ -34,4 +34,18 @@ ul {
 }
 .titleName{
     text-decoration: underline;
+}
+
+
+@media only screen and (max-width: 500px) {
+    .headding{
+        font-size:25px,
+    }
+    .scheduleList{
+        font-size: 15px;
+    }
+    .sectiontitle{
+        font-size: 20px;
+    }
+
 }

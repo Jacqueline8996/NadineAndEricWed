@@ -16,7 +16,7 @@ function DetailsPInfo() {
   return (
     <div>
       <div className="container divCenter">
-        <p className="headding">November 7th 2021 Schedule: </p>
+        <p className="headdingD">November 7th 2021</p>
       </div>
       <div className="container divCenter" >
         <div>
